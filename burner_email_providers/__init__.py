@@ -134,7 +134,6 @@ EMAILS = [
     'dispostable.com',
     'dlemail.ru',
     'dm.w3internet.co.uk',
-    'example.com',
     'dodgeit.com',
     'dodgit.com',
     'dodgit.org',
