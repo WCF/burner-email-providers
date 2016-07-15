@@ -2,7 +2,7 @@
 
 **Forked from [/wesbos/burner-email-providers](https://github.com/wesbos/burner-email-providers)**, a fork of [a gist](https://gist.github.com/adamloving/4401361).
 
-This is the PyPI package of the same list.
+This is the PyPI package of the same list, and then some.
 
 ## Installation
 
