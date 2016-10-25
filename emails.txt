@@ -18,6 +18,7 @@
 20email.eu
 20mail.eu
 20mail.it
+20minute.email
 20minutemail.com
 2120001.net
 21cn.com
@@ -37,6 +38,7 @@
 4warding.org
 5ghgfhfghfgh.tk
 5gramos.com
+5july.org
 60minutemail.com
 675hosting.com
 675hosting.net
@@ -99,6 +101,7 @@ appinventor.nl
 armyspy.com
 aron.us
 artman-conception.com
+asdfghmail.com
 asspoo.com
 assurancespourmoi.eu
 astroempires.info
@@ -111,6 +114,7 @@ badgerland.eu
 badhus.org
 ballsofsteel.net
 bandai.nom.co
+bareed.ws
 barrypov.com
 barryspov.com
 bartoparcadecabinet.com
@@ -163,6 +167,7 @@ byom.de
 c2.hu
 card.zp.ua
 carrnelpartners.com
+cartelera.org
 casualdx.com
 cek.pm
 centermail.com
@@ -323,6 +328,7 @@ emailxfer.com
 emeil.in
 emeil.ir
 emil.com
+emltmp.com
 emz.net
 enterto.com
 eonmech.com
@@ -373,14 +379,17 @@ filzmail.com
 fingermouse.org
 fivemail.de
 fizmail.com
+flashbox.5july.org
 fleckens.hu
 flemail.ru
 flowu.com
 flyinggeek.net
+foodbooto.com
 foquita.com
 forecastertests.com
 forgetmail.com
 forspam.net
+forward.cat
 fr33mail.info
 francanet.com.br
 frapmail.com
@@ -480,6 +489,7 @@ hmamail.com
 hoanggiaanh.com
 hochsitze.com
 hopemail.biz
+hostcalls.com
 hostmonitor.net
 hotpop.com
 hulapla.de
@@ -718,8 +728,10 @@ miodonski.ch
 miraigames.net
 misterpinball.de
 mmailinater.com
+moakt.ws
 moburl.com
 mockmyid.com
+mohmal.im
 mohmal.com
 momentics.ru
 moncourrier.fr.nf
@@ -854,6 +866,8 @@ pingir.com
 pjjkp.com
 plexolan.de
 politikerclub.de
+pokemail.net
+polyfaust.com
 pooae.com
 poofy.org
 pookmail.com
@@ -888,6 +902,7 @@ raetp9.com
 rainwaterstudios.org
 raketenmann.de
 rawhidefc.org
+rawmails.com
 rcpt.at
 reallymymail.com
 realtyalerts.ca
@@ -912,6 +927,7 @@ rklips.com
 rmqkr.net
 rnailinator.com
 ronnierage.net
+rootfest.net
 rotaniliam.com
 royal.net
 rppkn.com
@@ -951,6 +967,7 @@ shhuut.org
 shieldedmail.com
 shieldemail.com
 shiftmail.com
+shitmail.de
 shitmail.me
 shitmail.org
 shitware.nl
@@ -1041,10 +1058,12 @@ spamtrail.com
 spamtroll.net
 speed.1s.fr
 spoofmail.de
+spybox.de
 ssgjylc1013.com
 statdvr.com
 stathost.net
 steamprank.com
+stexsy.com
 stg.malibucoding.com
 stop-my-spam.com
 streamfly.biz
@@ -1068,6 +1087,7 @@ tagmymedia.com
 takedowns.org
 talkinator.com
 tanukis.org
+taosjw.com
 taskforcetech.com
 tdf-illustration.com
 teewars.org
@@ -1086,8 +1106,15 @@ tempemail.com
 tempemail.net
 tempinbox.co.uk
 tempinbox.com
+tempmail.de
 tempmail.eu
 tempmail.it
+<<<<<<< HEAD
+=======
+temp-mail.de
+temp-mail.org
+temp-mail.ru
+>>>>>>> dbc365b4ff60b99966abb2260e44e2461af21a4d
 tempmail2.com
 tempmaildemo.com
 tempmailer.com
