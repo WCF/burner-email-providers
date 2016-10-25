@@ -6,6 +6,12 @@ python setup.py register -r pypitest
 python setup.py register -r pypi
 ```
 
+# Testing
+
+```
+python setup.py sdist install
+```
+
 # Uploading
 
 Bump the `version` in `setup.py`.

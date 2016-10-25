@@ -2,3 +2,4 @@
 setup.cfg
 setup.py
 burner_email_providers/__init__.py
+burner_email_providers/emails.txt

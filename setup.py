@@ -9,4 +9,5 @@ setup(name='burner-email-providers',
       author_email='everyone@example.com',
       url='https://github.com/WCF/burner-email-providers/',
       packages=['burner_email_providers'],
+      package_data={'burner_email_providers': ['emails.txt']},
      )
