@@ -1109,9 +1109,12 @@ tempinbox.com
 tempmail.de
 tempmail.eu
 tempmail.it
+<<<<<<< HEAD
+=======
 temp-mail.de
 temp-mail.org
 temp-mail.ru
+>>>>>>> dbc365b4ff60b99966abb2260e44e2461af21a4d
 tempmail2.com
 tempmaildemo.com
 tempmailer.com
