@@ -3,7 +3,7 @@
 from distutils.core import setup
 
 setup(name='burner-email-providers',
-      version='1.3',
+      version='1.4',
       description='Burner Email Providers',
       author='Various Artists',
       author_email='everyone@example.com',

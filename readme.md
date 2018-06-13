@@ -24,5 +24,6 @@ for domain in EMAILS:
 
 ## Licence
 
-Since there was no licence on [the gist](https://gist.github.com/adamloving/4401361), and there was also no licence on the [repository](https://github.com/wesbos/burner-email-providers), this repository is assumed to be open domain.
-If you must require a licence, this repository has an MIT licence included. *THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, ...* applies to this repository regardless.
+There was no licence on [the gist](https://gist.github.com/adamloving/4401361).
+However, upon forking the gist, [this parent repository](https://github.com/wesbos/burner-email-providers) claims [copyright](https://github.com/wesbos/burner-email-providers/blob/master/LICENSE#L1) and is [now proprietary](https://github.com/wesbos/burner-email-providers/commit/27328997f54077d88ab74bbe134906d30cb5df78#diff-b5d0ee8c97c7abd7e3fa29b9a27d1780R4).
+This fork makes an assumption that Adam Loving granted Wes Bos the copyright at some point.
